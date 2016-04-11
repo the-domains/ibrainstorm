@@ -2,6 +2,7 @@ name: ibrainstorm
 favicon: null
 layout_spectrum: 0.45635444996878505
 typography_spectrum: 0.9579484721180052
+title: 'The site that helps you achieve your goals!'
 cta:
   domain: null
   bucket: null
